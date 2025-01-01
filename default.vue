@@ -1,4 +1,4 @@
-<!--This file should be inside the layout folder at the root level regarding Nuxt3's structure.-->
+<!-- This file should be inside the layout folder at the root level regarding Nuxt3's structure. -->
 
 <template>
   <UContainer>
