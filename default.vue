@@ -1,4 +1,5 @@
 <!--This file should be inside the layout folder at the root level regarding Nuxt3's structure.-->
+
 <template>
   <UContainer>
     <UCard class="mt-10">
